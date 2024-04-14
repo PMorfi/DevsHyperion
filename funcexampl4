@@ -1,0 +1,18 @@
+def divide(a,b):
+   return a / b
+def main_function():
+    result = divide (10, 0)
+    print (result)
+   
+def string_builder(word1, word2):
+    return  f"{word1}- {word2}"
+    return word1+ word2
+
+print(   string_builder("cat" , " lover")   )
+
+    
+new_random = string_builder ("social ", "prince")   
+print(new_random)
+
+
+    
